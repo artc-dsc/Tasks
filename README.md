@@ -5,3 +5,5 @@
 
 - M forecasting competition: https://forecasters.org/resources/time-series-data/
 The data is freely available for anyone to use and the data can be used by any researcher without further permission.
+
+- DL time series model library: https://github.com/thuml/Time-Series-Library an open-source library for deep learning researchers, especially for deep time series analysis.
